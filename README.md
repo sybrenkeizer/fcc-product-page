@@ -10,4 +10,11 @@ Date created: September 2021
 
 Hours spend: 
 
-Learned:
+
+Learned: 
+
+- First attempt with flexbox
+
+- General styling
+
+- Getting more familiar with responsive CSS skills
